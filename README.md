@@ -21,19 +21,20 @@ For the trainers:
 | Time        | Topic           | Speaker(s)  |
 | ------------- |:-------------:| -----:|
 | 10:10-10:40 | Project handling | [Sarah Bonnin](mailto:sarah.bonnin@crg.eu) |
-| 10:40-11:15      | Version control      | [Emilio Palumbo](emilio.palumbo@crg.eu) |
-| 11:15-12:00 | Data / File handling | [Rodny Hernandez](rodny.hernandez@crg.eu)|
+| 10:40-11:15      | Version control      | [Emilio Palumbo](mailto:emilio.palumbo@crg.eu) |
+| 11:15-12:00 | Data / File handling | [Rodny Hernandez](mailto:rodny.hernandez@crg.eu)|
 | 12:00-12:20 | BREAK | |
-| 12:20-13:10 | Resources at CRG | [Luis Exposito](luis.exposito@crg.eu), [Toni Hermoso](toni.hermoso@crg.eu) |
-| 13:10-14:00 | Pipeline | [Luca Cozzuto](luca.cozzuto@crg.eu)|
+| 12:20-13:10 | Resources at CRG | [Luis Exposito](mailto:luis.exposito@crg.eu), [Toni Hermoso](mailto:toni.hermoso@crg.eu) |
+| 13:10-14:00 | Pipeline | [Luca Cozzuto](mailto:luca.cozzuto@crg.eu)|
 
 ## Topics
 
 ### Project handling
 
-|**Learning objectives**|
-|How to organize and properly structure a bioinformatics project|
-|Learn what is a README file|
+| **Learning objectives** |
+| ------------- |
+| How to organize and properly structure a bioinformatics project |
+| Learn what is a README file |
 
 |**Learning outcomes**|
 |Create the base structure for any project|
