@@ -59,6 +59,8 @@ For the trainers:
 
 ### Data / File handling
 
+[Slides](biocorecrg/goodbioinfo2018/File_handling_Good_Practice.pdf)
+
 | **Learning objectives** |
 | ------------- |
 | How the CRG storage infrastructure is organized |
