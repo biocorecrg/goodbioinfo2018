@@ -3,6 +3,8 @@
 
 A 4-hour course on (what we think are) good practices in bioinformatics.
 
+Introduction [slides](https://github.com/biocorecrg/goodbioinfo2018/blob/master/20180507_goodpractices_Intro.pdf).
+
 ## Objectives of the course
 
 For the trainee:
@@ -20,7 +22,7 @@ For the trainers:
 
 | Time        | Topic           | Speaker(s)  | Material |
 | ------------- |:-------------:|:-----:|------:|
-| 10:10-10:40 | Project handling | [Sarah Bonnin](mailto:sarah.bonnin@crg.eu) | [Slides](https://github.com/biocorecrg/goodbioinfo2018/blob/master/) |
+| 10:10-10:40 | Project handling | [Sarah Bonnin](mailto:sarah.bonnin@crg.eu) | [Slides](https://github.com/biocorecrg/goodbioinfo2018/blob/master/20180507_goodpractices_projecthandling.pdf) |
 | 10:40-11:15      | Version control      | [Emilio Palumbo](mailto:emilio.palumbo@crg.eu) | [Slides]() |
 | 11:15-12:00 | Data / File handling | [Rodny Hernandez](mailto:rodny.hernandez@crg.eu)| [Slides](https://github.com/biocorecrg/goodbioinfo2018/blob/master/File_handling_Good_Practice.pdf) |
 | 12:00-12:20 | BREAK | | |
@@ -33,7 +35,7 @@ For the trainers:
 
 ### Project handling
 
-[Slides](https://github.com/biocorecrg/goodbioinfo2018/blob/master/)
+[Slides](https://github.com/biocorecrg/goodbioinfo2018/blob/master/20180507_goodpractices_projecthandling.pdf)
 
 | **Learning objectives** |
 | ------------- |
