@@ -1,4 +1,4 @@
-# ![goodbioinfo2018](http://www.crg.eu/sites/default/files/logo_1.png =250x250) ![goodbioinfo2018](https://github.com/CRG-CNAG/BioCoreMiscOpen/blob/master/logo/biocore-logo_small.png) 
+# ![goodbioinfo2018](http://www.crg.eu/sites/default/files/logo_1.png | width=100) ![goodbioinfo2018](https://github.com/CRG-CNAG/BioCoreMiscOpen/blob/master/logo/biocore-logo_small.png) 
 # Good Practices Bioinfo2018
 
 A 4-hour course on (what we think are) good practices in bioinformatics.
