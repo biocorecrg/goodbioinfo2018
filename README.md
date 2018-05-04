@@ -1,4 +1,4 @@
-# ![goodbioinfo2018](https://github.com/CRG-CNAG/BioCoreMiscOpen/blob/master/logo/biocore-logo_small.png)(http://www.crg.eu/sites/default/files/logo_1.png)
+# ![goodbioinfo2018](https://github.com/CRG-CNAG/BioCoreMiscOpen/blob/master/logo/biocore-logo_small.png) ![goodbioinfo2018](http://www.crg.eu/sites/default/files/logo_1.png)
 # Good Practices Bioinfo2018
 
 A 4-hour course on (what we think are) good practices in bioinformatics.
@@ -65,7 +65,8 @@ For the trainers:
 | How to use the CRG storage in an efficient way |
 
 | **Learning outcomes** |
-| ------------- ||Recover files using the snapshots |
+| ------------- |
+| Recover files using the snapshots |
 | Check the limits of the file system and group quota |
 | Know what is the size of a file and its type |
 | Create an archive to save money and space |
