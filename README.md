@@ -29,6 +29,8 @@ For the trainers:
 
 ## Topics
 
+---
+
 ### Project handling
 
 [Slides](https://github.com/biocorecrg/goodbioinfo2018/blob/master/)
@@ -45,6 +47,7 @@ For the trainers:
 | Write a README file |
 | What data to store, what data to trash |
 
+---
 
 ### Version control
 
@@ -60,6 +63,7 @@ For the trainers:
 | Learn the main terminology (commands) of git and apply them |
 | Create a github repository |
 
+---
 
 ### Data / File handling
 
@@ -77,6 +81,8 @@ For the trainers:
 | Know what is the size of a file and its type |
 | Create an archive to save money and space |
 
+---
+
 ### Resources at CRG
 
 [Slides](https://github.com/biocorecrg/goodbioinfo2018/blob/master/)
@@ -91,6 +97,8 @@ For the trainers:
 | How to find a mirrored database in the CRG file system |
 | How to find installed software |
 | How to launch / download a Docker image |
+
+---
 
 ### Pipeline
 
