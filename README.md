@@ -18,18 +18,20 @@ For the trainers:
 
 ## Schedule
 
-| Time        | Topic           | Speaker(s)  |
-| ------------- |:-------------:| -----:|
-| 10:10-10:40 | Project handling | [Sarah Bonnin](mailto:sarah.bonnin@crg.eu) |
-| 10:40-11:15      | Version control      | [Emilio Palumbo](mailto:emilio.palumbo@crg.eu) |
-| 11:15-12:00 | Data / File handling | [Rodny Hernandez](mailto:rodny.hernandez@crg.eu)|
-| 12:00-12:20 | BREAK | |
-| 12:20-13:10 | Resources at CRG | [Luis Exposito](mailto:luis.exposito@crg.eu), [Toni Hermoso](mailto:toni.hermoso@crg.eu) |
-| 13:10-14:00 | Pipeline | [Luca Cozzuto](mailto:luca.cozzuto@crg.eu)|
+| Time        | Topic           | Speaker(s)  | Material |
+| ------------- |:-------------:|:-----:|------:|
+| 10:10-10:40 | Project handling | [Sarah Bonnin](mailto:sarah.bonnin@crg.eu) | [Slides](https://github.com/biocorecrg/goodbioinfo2018/blob/master/) |
+| 10:40-11:15      | Version control      | [Emilio Palumbo](mailto:emilio.palumbo@crg.eu) | [Slides]() |
+| 11:15-12:00 | Data / File handling | [Rodny Hernandez](mailto:rodny.hernandez@crg.eu)| [Slides](https://github.com/biocorecrg/goodbioinfo2018/blob/master/File_handling_Good_Practice.pdf) |
+| 12:00-12:20 | BREAK | | |
+| 12:20-13:10 | Resources at CRG | [Luis Exposito](mailto:luis.exposito@crg.eu), [Toni Hermoso](mailto:toni.hermoso@crg.eu) | [Slides](https://github.com/biocorecrg/goodbioinfo2018/blob/master/) |
+| 13:10-14:00 | Pipeline | [Luca Cozzuto](mailto:luca.cozzuto@crg.eu)| [Slides](https://github.com/biocorecrg/goodbioinfo2018/blob/master/cozzuto_nextflow_good_practice.pdf)|
 
 ## Topics
 
 ### Project handling
+
+[Slides](https://github.com/biocorecrg/goodbioinfo2018/blob/master/)
 
 | **Learning objectives** |
 | ------------- |
@@ -46,6 +48,8 @@ For the trainers:
 
 ### Version control
 
+[Slides]()
+
 | **Learning objectives** |
 | ------------- |
 | Learn what a version control system is and why it is important |
@@ -59,7 +63,7 @@ For the trainers:
 
 ### Data / File handling
 
-[Slides](biocorecrg/goodbioinfo2018/File_handling_Good_Practice.pdf)
+[Slides](https://github.com/biocorecrg/goodbioinfo2018/blob/master/File_handling_Good_Practice.pdf)
 
 | **Learning objectives** |
 | ------------- |
@@ -75,6 +79,8 @@ For the trainers:
 
 ### Resources at CRG
 
+[Slides](https://github.com/biocorecrg/goodbioinfo2018/blob/master/)
+
 | **Learning objectives** |
 | ------------- |
 | Learn of the resources available at CRG: installed software and mirrored databases |
@@ -87,6 +93,8 @@ For the trainers:
 | How to launch / download a Docker image |
 
 ### Pipeline
+
+[Slides](https://github.com/biocorecrg/goodbioinfo2018/blob/master/cozzuto_nextflow_good_practice.pdf)
 
 | **Learning objectives** |
 | ------------- |
