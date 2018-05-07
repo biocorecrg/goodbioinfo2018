@@ -35,7 +35,7 @@ For the trainers:
 
 ### Project handling
 
-[Slides](https://github.com/biocorecrg/goodbioinfo2018/blob/master/20180507_goodpractices_projecthandling.pdf)
+Slides for [project handling](https://github.com/biocorecrg/goodbioinfo2018/blob/master/20180507_goodpractices_projecthandling.pdf)
 
 | **Learning objectives** |
 | ------------- |
@@ -53,7 +53,7 @@ For the trainers:
 
 ### Version control
 
-[Slides](https://crg-cnag.github.io/good-bionfo-2018-vc/)
+Slides for [version control](https://crg-cnag.github.io/good-bionfo-2018-vc/)
 
 | **Learning objectives** |
 | ------------- |
@@ -69,7 +69,7 @@ For the trainers:
 
 ### Data / File handling
 
-[Slides](https://github.com/biocorecrg/goodbioinfo2018/blob/master/File_handling_Good_Practice.pdf)
+Slides for [File handling](https://github.com/biocorecrg/goodbioinfo2018/blob/master/File_handling_Good_Practice.pdf)
 
 | **Learning objectives** |
 | ------------- |
@@ -104,7 +104,7 @@ Slides: [Mirrors](https://github.com/biocorecrg/goodbioinfo2018/blob/master/mirr
 
 ### Pipeline
 
-[Slides](https://github.com/biocorecrg/goodbioinfo2018/blob/master/cozzuto_nextflow_good_practice.pdf)
+Sides for [pipelines](https://github.com/biocorecrg/goodbioinfo2018/blob/master/cozzuto_nextflow_good_practice.pdf)
 
 | **Learning objectives** |
 | ------------- |
