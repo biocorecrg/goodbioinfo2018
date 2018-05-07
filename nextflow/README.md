@@ -6,6 +6,7 @@ Simple Nextflow example
 
 * Execute script:
 
-    nextflow run hello.nf
+    nextflow run sayHello.nf
 
+    nextflow run processSeqs.nf 
 
