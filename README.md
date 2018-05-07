@@ -26,7 +26,7 @@ For the trainers:
 | 10:40-11:15      | Version control      | [Emilio Palumbo](mailto:emilio.palumbo@crg.eu) | [Slides](https://crg-cnag.github.io/good-bionfo-2018-vc/) |
 | 11:15-12:00 | Data / File handling | [Rodny Hernandez](mailto:rodny.hernandez@crg.eu)| [Slides](https://github.com/biocorecrg/goodbioinfo2018/blob/master/File_handling_Good_Practice.pdf) |
 | 12:00-12:20 | BREAK | | |
-| 12:20-13:10 | Resources at CRG | [Luis Exposito](mailto:luis.exposito@crg.eu), [Toni Hermoso](mailto:toni.hermoso@crg.eu) | Slides:[Sotfware](https://github.com/biocorecrg/goodbioinfo2018/blob/master/Software_in_the_cluster_Best_Practices_v2.pdf) [Mirrors](https://github.com/biocorecrg/goodbioinfo2018/blob/master/mirror-resources-crg.pdf) [Containers](https://github.com/biocorecrg/goodbioinfo2018/blob/master/basic-introduction-containers-scientific.pdf) |
+| 12:20-13:10 | Resources at CRG | [Luis Exposito](mailto:luis.exposito@crg.eu), [Toni Hermoso](mailto:toni.hermoso@crg.eu) | Slides:[Software](https://github.com/biocorecrg/goodbioinfo2018/blob/master/Software_in_the_cluster_Best_Practices_v2.pdf) [Mirrors](https://github.com/biocorecrg/goodbioinfo2018/blob/master/mirror-resources-crg.pdf) [Containers](https://github.com/biocorecrg/goodbioinfo2018/blob/master/basic-introduction-containers-scientific.pdf) |
 | 13:10-14:00 | Pipeline | [Luca Cozzuto](mailto:luca.cozzuto@crg.eu)| [Slides](https://github.com/biocorecrg/goodbioinfo2018/blob/master/cozzuto_nextflow_good_practice.pdf)|
 
 ## Topics
@@ -88,7 +88,7 @@ Slides for [File handling](https://github.com/biocorecrg/goodbioinfo2018/blob/ma
 
 ### Resources at CRG
 
-Slides: [Sotfware](https://github.com/biocorecrg/goodbioinfo2018/blob/master/Software_in_the_cluster_Best_Practices_v2.pdf) [Mirrors](https://github.com/biocorecrg/goodbioinfo2018/blob/master/mirror-resources-crg.pdf) [Containers](https://github.com/biocorecrg/goodbioinfo2018/blob/master/basic-introduction-containers-scientific.pdf)
+Slides: [Software](https://github.com/biocorecrg/goodbioinfo2018/blob/master/Software_in_the_cluster_Best_Practices_v2.pdf) [Mirrors](https://github.com/biocorecrg/goodbioinfo2018/blob/master/mirror-resources-crg.pdf) [Containers](https://github.com/biocorecrg/goodbioinfo2018/blob/master/basic-introduction-containers-scientific.pdf)
 
 | **Learning objectives** |
 | ------------- |
