@@ -53,7 +53,7 @@ For the trainers:
 
 ### Version control
 
-[Slides]()
+[Slides](https://crg-cnag.github.io/good-bionfo-2018-vc/)
 
 | **Learning objectives** |
 | ------------- |
