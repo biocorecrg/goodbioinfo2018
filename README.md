@@ -1,4 +1,4 @@
-# ![goodbioinfo2018](http://www.crg.eu/sites/default/files/logo_1.png) ![goodbioinfo2018](https://github.com/CRG-CNAG/BioCoreMiscOpen/blob/master/logo/biocore-logo_small.png) 
+# ![goodbioinfo2018](http://www.crg.eu/sites/default/files/logo_1.png) ![goodbioinfo2018](https://github.com/CRG-CNAG/BioCoreMiscOpen/blob/master/logo/biocore-logo_small.png)
 # Good Practices Bioinfo2018
 
 A 4-hour course on (what we think are) good practices in bioinformatics.
@@ -54,6 +54,7 @@ Slides for [project handling](https://github.com/biocorecrg/goodbioinfo2018/blob
 ### Version control
 
 Slides for [version control](https://crg-cnag.github.io/good-bionfo-2018-vc/)
+* Download desktop.github.com
 
 | **Learning objectives** |
 | ------------- |
